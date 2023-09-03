@@ -1,0 +1,14 @@
+{
+  "name": "schnorr",
+  "version": "1.0.0",
+  "description": "A Simple Schnorr signing application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Johansson",
+  "license": "MIT",
+  "dependencies": {
+    "bip-schnorr": "^0.6.7"
+  }
+}
